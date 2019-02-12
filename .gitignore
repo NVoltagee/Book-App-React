@@ -3,7 +3,7 @@ bundle.js
 npm-debug.log
 .DS_Store
 .netlify
-
+yarn.lock
 # IntelliJ
 *.iml
 /.idea
